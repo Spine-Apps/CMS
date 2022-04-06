@@ -1,2 +1,2 @@
 # CMS
- Our basic CMS created with the help of Strapi.io
+ Our own CMS built with Strapi.io.
